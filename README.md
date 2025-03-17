@@ -7,5 +7,5 @@
 - `MNIST.ipynb`: Code and simulation of MNIST dataset
 - `Unsupervised_learning_Clustering.ipynb`: Code and simulation of clustering
 - `https://www.kaggle.com/datasets/tanjimtaharataurpa/bangla-math-entity-recognition`: Link of the datset of final project
-- `potato-disease-detection.ipynb`: Codes and simulations of final project (Mathematical Entity Recognition)
+- `mer-mbert.ipynb`, `mer-distilbert.ipynb`: Codes and simulations of final project (Mathematical Entity Recognition)
 - `Final_Project_Report.pdf`: A detailed report of final project
